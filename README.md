@@ -44,3 +44,6 @@ sales-report-generator/
 │
 ├── .gitignore
 └── README.md
+## Dashboard Preview
+
+![Sales Performance Dashboard](dashboard.png)
