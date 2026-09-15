@@ -1,0 +1,16 @@
+Date,Product,Category,Region,Quantity,Price
+2026-09-01,Laptop,Electronics,Sydney,2,1200
+2026-09-01,Keyboard,Accessories,Sydney,5,80
+2026-09-02,Monitor,Electronics,Melbourne,3,450
+2026-09-03,Mouse,Accessories,Brisbane,10,35
+2026-09-03,Laptop,Electronics,Melbourne,1,1200
+2026-09-04,Headphones,Accessories,Sydney,4,150
+2026-09-05,Monitor,Electronics,Brisbane,2,450
+2026-09-06,Keyboard,Accessories,Melbourne,8,80
+2026-09-07,Laptop,Electronics,Brisbane,3,1200
+2026-09-08,Mouse,Accessories,Sydney,15,35
+2026-09-09,Headphones,Accessories,Melbourne,6,150
+2026-09-10,Monitor,Electronics,Sydney,4,450
+2026-09-11,Laptop,Electronics,Sydney,2,1200
+2026-09-12,Keyboard,Accessories,Brisbane,12,80
+2026-09-13,Mouse,Accessories,Melbourne,9,35
